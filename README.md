@@ -1,3 +1,14 @@
+
+# AKGEC-APP
+This app is a complete hub for students studding in online mode.
+I made this app in my first sem.
+Through this app students can join their respective classes on google meet, can surf through college and aktu website,
+they can also get desired documents and PDF of respective subjects in seperate folders.
+The app is very lite [11 MB] app and is fully connected to firebase.
+
+
+SCREEN SHOTS
+
 ![college](https://user-images.githubusercontent.com/90553063/134773789-8c9f0722-968f-4fbc-8362-54736635d772.jpeg)
 ![Dashboard](https://user-images.githubusercontent.com/90553063/134773793-0aff8395-7072-4eae-92b7-284082f6915f.jpeg)
 ![feedback](https://user-images.githubusercontent.com/90553063/134773795-8298bcae-bea2-4131-9e03-25462bcbb053.jpeg)
@@ -9,9 +20,3 @@
 ![Register](https://user-images.githubusercontent.com/90553063/134773803-bef63efe-7c18-4f1f-9bdf-92ed380de37f.jpeg)
 ![sections](https://user-images.githubusercontent.com/90553063/134773804-0cbc3ee0-28ec-4f45-a686-9a9abe6418f8.jpeg)
 ![subjects](https://user-images.githubusercontent.com/90553063/134773805-05fa33a2-3fca-445e-9202-528d8d192dad.jpeg)
-# AKGEC-APP
-This app is a complete hub for students studding in online mode.
-I made this app in my first sem.
-Through this app students can join their respective classes on google meet, can surf through college and aktu website,
-they can also get desired documents and PDF of respective subjects in seperate folders.
-The app is very lite [11 MB] app and is fully connected to firebase.
