@@ -9,7 +9,7 @@ The app is very lite [11 MB] app and is fully connected to firebase.
 
 SCREEN SHOTS
 
-![college](https://user-images.githubusercontent.com/90553063/134773789-8c9f0722-968f-4fbc-8362-54736635d772.jpeg width="356" height="700")
+<img src="https://user-images.githubusercontent.com/90553063/134773789-8c9f0722-968f-4fbc-8362-54736635d772.jpeg" width="356" height="700">
 ![Dashboard](https://user-images.githubusercontent.com/90553063/134773793-0aff8395-7072-4eae-92b7-284082f6915f.jpeg)
 ![feedback](https://user-images.githubusercontent.com/90553063/134773795-8298bcae-bea2-4131-9e03-25462bcbb053.jpeg)
 ![Firebase 1](https://user-images.githubusercontent.com/90553063/134773796-7148642a-58f6-4e8d-9cc9-a92571ec39de.jpeg)
