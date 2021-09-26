@@ -1,6 +1,6 @@
 
 # AKGEC-APP
-This app is a complete hub for students studding in online mode.
+This app is a complete hub for students studying in online mode.
 I made this app in my first sem.
 Through this app students can join their respective classes on google meet, can surf through college and aktu website,
 they can also get desired documents and PDF of respective subjects in seperate folders.
@@ -9,7 +9,7 @@ The app is very lite [11 MB] app and is fully connected to firebase.
 
 SCREEN SHOTS
 
-![college](https://user-images.githubusercontent.com/90553063/134773789-8c9f0722-968f-4fbc-8362-54736635d772.jpeg)
+![college](https://user-images.githubusercontent.com/90553063/134773789-8c9f0722-968f-4fbc-8362-54736635d772.jpeg width="356" height="700")
 ![Dashboard](https://user-images.githubusercontent.com/90553063/134773793-0aff8395-7072-4eae-92b7-284082f6915f.jpeg)
 ![feedback](https://user-images.githubusercontent.com/90553063/134773795-8298bcae-bea2-4131-9e03-25462bcbb053.jpeg)
 ![Firebase 1](https://user-images.githubusercontent.com/90553063/134773796-7148642a-58f6-4e8d-9cc9-a92571ec39de.jpeg)
